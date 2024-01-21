@@ -1,7 +1,12 @@
 h1{
     color: blue;
+    text-align: center;
 }
 body 
 {
     background-color: rgb(130, 130, 243);
+}
+div{
+    text-align: center;
+    color: red;
 }
