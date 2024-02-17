@@ -17,12 +17,4 @@ This repository showcases the implementation of a responsive landing page, devel
 - **CSS**: Styles the landing page for responsiveness and aesthetics.
 - **Responsive Design Techniques**: Media queries and flexible grid layouts for optimal viewing on different devices.
 
-## Getting Started
 
-To view the responsive landing page, follow these steps:
-
-1. Clone the repository to your local machine:
-
-2. Open the `index.html` file in your preferred web browser.
-
-3. Explore the responsive design on various devices.
